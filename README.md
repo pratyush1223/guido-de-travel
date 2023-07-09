@@ -11,7 +11,11 @@
 
 ## Illustration:
 
-  loom.com/share/dcd19ab5560b40408febaa29bf1c9582?sid=35bb6c9d-6e50-4a93-bede-1383f7edfb70
+
+https://github.com/pratyush1223/guido-de-travel/assets/79434449/599cd72e-c481-4f9a-8d7f-5bb3213a1361
+
+
+  
 ## Key Features:
 
 - Contains a Translator component that automatically detects your location and translates speech as well as text for you
